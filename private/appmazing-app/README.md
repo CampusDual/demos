@@ -1,4 +1,7 @@
 # Appmazing App
+## Repositorios
+* [Backend](https://github.com/CampusDual/appmazing-back)
+* [Frontend](https://github.com/CampusDual/appmazing-front)
 ## Base de datos
 * Driver: `HSQL`
 * Host: `localhost`
@@ -6,11 +9,11 @@
 * Base de datos: `templateDB`
 * Usuario: `SA`
 * Contraseña: ` `
-## [Backend](https://github.com/CampusDual/appmazing-back)
+## Backend
 * URL: [http://localhost:30030](http://localhost:30030)
 * Usuario: `demo`
 * Contraseña: `demo`
-## [Frontend](https://github.com/CampusDual/appmazing-front)
+## Frontend
 * URL: [http://localhost:4200](http://localhost:4200)
 
 # Requisitos
