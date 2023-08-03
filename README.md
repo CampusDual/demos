@@ -8,5 +8,5 @@ La sección **pública** contiene los scripts de los repositorios a los que tien
 Para que estos scripts funcionen correctamente, es imprescindible que el equipo que los ejecute tenga instalado **Git** y **Docker**
 
 ## Pública
-## Privada
+## *Privada*
 * [AppmazingApp](./private/appmazing-app)
