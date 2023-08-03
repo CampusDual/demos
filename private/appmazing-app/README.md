@@ -5,7 +5,7 @@
 * Puerto: `9013`
 * Base de datos: `templateDB`
 * Usuario: `SA`
-* Contraseña:` `
+* Contraseña: ` `
 ## Backend
 * URL: [http://localhost:30030](http://localhost:30030)
 * Usuario: `demo`
