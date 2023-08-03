@@ -1,0 +1,17 @@
+version: "3"
+services:
+  back:
+    container_name: appmazing-back
+    image: appmazingback
+    ports:
+      - 9013:9013
+      - 30030:30030
+    restart: always
+  front:
+    depends_on:
+      - back
+    container_name: appmazing-front
+    image: appmazingfront
+    ports:
+      - 4200:80
+    restart: always
