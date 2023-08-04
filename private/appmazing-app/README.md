@@ -21,14 +21,9 @@
 * Git
 
 # Windows
-## Iniciar aplicación (Sin imágenes docker)
+## Iniciar aplicación
 ```
-appmazing-app> install.bat
-```
-## Iniciar aplicación (Con imagenes docker)
-```
-appmazing-app> wsl.exe docker compose up -d
-appmazing-app> wsl.exe docker compose logs -f
+appmazing-app> run_app.bat
 ```
 ## Parar la aplicación 
 ```
@@ -36,15 +31,10 @@ appmazing-app> wsl.exe docker compose down
 ```
 
 # WSL
-## Iniciar aplicación (Sin imágenes docker)
+## Iniciar aplicación
 ```
-appmazing-app$ chmod +x install.sh
-appmazing-app$ ./install.sh
-```
-## Iniciar aplicación (Con imagenes docker)
-```
-appmazing-app$ docker compose up -d
-appmazing-app$ docker compose logs -f
+appmazing-app$ chmod +x run_app.sh
+appmazing-app$ ./run_app.sh
 ```
 ## Parar la aplicación
 ```
