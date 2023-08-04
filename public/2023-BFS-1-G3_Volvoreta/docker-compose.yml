@@ -1,0 +1,10 @@
+version: "3"
+services:
+  db:
+    container_name: 2023-bfs-1-g3-db
+    image: 2023-bfs-1-g3-db
+    ports:
+      - 9053:5432
+    restart: always
+    command: >
+      sh -c 'postgres'
