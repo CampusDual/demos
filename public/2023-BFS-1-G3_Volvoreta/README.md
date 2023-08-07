@@ -25,6 +25,7 @@
 > La contraseña de todos los usuarios es `demouser`
 # Requisitos
 * Docker (con WSL)
+* Docker compose (v2)
 * Git
 
 # Windows

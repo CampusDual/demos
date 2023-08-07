@@ -18,6 +18,7 @@
 
 # Requisitos
 * Docker (con WSL)
+* Docker compose (v2)
 * Git
 
 # Windows
