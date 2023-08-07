@@ -25,20 +25,20 @@
 # Windows
 ## Iniciar aplicación
 ```
-2023-BFS-1-G2_Partners> run_app.bat
+2023-BFS-1-G2_GoCar> run_app.bat
 ```
 ## Parar la aplicación
 ```
-2023-BFS-1-G2_Partners> wsl.exe docker compose down
+2023-BFS-1-G2_GoCar> wsl.exe docker compose down
 ```
 
 # WSL
 ## Iniciar aplicación
 ```
-2023-BFS-1-G2_Partners> chmod +x run_app.sh
-2023-BFS-1-G2_Partners> ./run_app.sh
+2023-BFS-1-G2_GoCar> chmod +x run_app.sh
+2023-BFS-1-G2_GoCar> ./run_app.sh
 ```
 ## Parar la aplicación
 ```
-2023-BFS-1-G2_Partners> docker compose down
+2023-BFS-1-G2_GoCar> docker compose down
 ```
