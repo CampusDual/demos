@@ -1,4 +1,4 @@
-# Appmazing App
+# 2023-BFS-1-G3_Volvoreta
 ## Repositorio
 * [Repositorio](https://github.com/CampusDual/2023-BFS-1-G3_Volvoreta)
 ## Presentación
@@ -7,7 +7,7 @@
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
-* Puerto: `9054`
+* Puerto: `9053`
 * Base de datos: `2023-BFS-1-G3`
 * Usuario: `Fullstack_2023_1_G3`
 * Contraseña: `1qaz2wsx`
