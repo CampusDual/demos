@@ -8,7 +8,7 @@ echo ==== Clonar repositorio para el backend (3/10) ====
 git clone https://github.com/CampusDual/appmazing-back.git
 echo ==== Clonar repositorio para el frontend (4/10) ====
 git clone https://github.com/CampusDual/appmazing-front.git
-echo ==== Limpiando imágenes antiguas (5/10) ====
+echo ==== Limpiando imagenes antiguas (5/10) ====
 wsl.exe docker image rm appmazingback
 wsl.exe docker image rm appmazingfront
 echo ==== Creando la imagen de backend (6/10) ====

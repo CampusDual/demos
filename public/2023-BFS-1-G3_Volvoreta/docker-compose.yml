@@ -6,5 +6,20 @@ services:
     ports:
       - 9053:5432
     restart: always
-    command: >
-      sh -c 'postgres'
+  backend:
+    depends_on:
+      - db
+    container_name: 2023-bfs-1-g3-backend
+    image: 2023-bfs-1-g3-backend
+    ports:
+      - 30070:33333
+    restart: always
+  frontend:
+    depends_on:
+      - db
+      - backend
+    container_name: 2023-bfs-1-g3-frontend
+    image: 2023-bfs-1-g3-frontend
+    ports:
+      - 4233:80
+    restart: always
