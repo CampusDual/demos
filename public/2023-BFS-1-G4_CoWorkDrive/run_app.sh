@@ -12,13 +12,13 @@ docker image rm 2023-bfs-1-g4-db
 docker image rm 2023-bfs-1-g4-backend
 docker image rm 2023-bfs-1-g4-frontend
 echo "==== Creando la imagen de la BBDD (5/10) ===="
-cd "$initial_dir/..."
+cd "$initial_dir/temp/2023-BFS-1-G4_CoWorkDrive/backend/2023-BFS-1-G4-main/coworkdrive-model/src/main/db"
 docker build -t 2023-bfs-1-g4-db .
 echo "==== Creando la imagen del backend (6/10) ===="
-cd "$initial_dir/..."
+cd "$initial_dir/temp/2023-BFS-1-G4_CoWorkDrive/backend/2023-BFS-1-G4-main"
 docker build -t 2023-bfs-1-g4-backend .
 echo "==== Creando la imagen del frontend (7/10) ===="
-cd "$initial_dir/..."
+cd "$initial_dir/temp/2023-BFS-1-G4_CoWorkDrive/frontend"
 docker build -t 2023-bfs-1-g4-frontend .
 echo "==== Eliminando repositorios (8/10) ===="
 cd "$initial_dir"
