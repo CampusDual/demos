@@ -1,6 +1,5 @@
 @echo off
 setlocal
-REM Obtener el directorio inicial
 for %%F in ("%~dp0.") do set "initial_dir=%%~fF"
 echo ==== Detener app con docker compose (1/10) ====
 wsl.exe docker compose down
