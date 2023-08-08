@@ -11,18 +11,14 @@
 * Base de datos: `2023-BFS-1-G1`
 * Usuario: `Fullstack_2023_1_G1`
 * Contraseña: `1qaz2wsx`
-## Backend
-* URL: [http://localhost:30068](http://localhost:30068)
+## Backend y Frontend
+* Backend URL: [http://localhost:30068](http://localhost:30068)
+* Frontend URL: [http://localhost:4231](http://localhost:4231)
 * Usuario admin: `admin@adminimatia.com`
 * Contraseña admin: `admin`
 * Usuario partner: `partner@partnersimatia.com`
 * Contraseña partner: `partner`
-## Frontend
-* URL: [http://localhost:4231](http://localhost:4231)
-* Usuario admin: `admin@adminimatia.com`
-* Contraseña admin: `admin`
-* Usuario partner: `partner@partnersimatia.com`
-* Contraseña partner: `partner`
+
 # Requisitos
 * Docker (con WSL)
 * Docker compose (v2)
