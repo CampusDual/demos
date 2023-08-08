@@ -1,30 +1,27 @@
 #!/bin/bash
+initial_dir=$(cd "$(dirname "$0")" && pwd)
 echo "==== Detener app con docker compose (1/10) ===="
 docker compose down
 echo "==== Crear carpeta temporal (2/10) ===="
-mkdir temp
-cd temp
+mkdir "$initial_dir/temp"
+cd "$initial_dir/temp"
 echo "==== Clonar repositorio (3/10) ===="
-git clone https://github.com/CampusDual/2023-BFS-1-G3_Volvoreta
-cd 2023-BFS-1-G3_Volvoreta
-git checkout docker
+git clone --single-branch --branch docker https://github.com/CampusDual/2023-BFS-1-G3_Volvoreta
 echo "==== Limpiando imagenes antiguas (4/10) ===="
 docker image rm 2023-bfs-1-g3-db
 docker image rm 2023-bfs-1-g3-backend
 docker image rm 2023-bfs-1-g3-frontend
 echo "==== Creando la imagen de la BBDD (5/10) ===="
-cd Backend/Backend-model/src/main/db
+cd "$initial_dir/temp/2023-BFS-1-G3_Volvoreta/Backend/Backend-model/src/main/db"
 docker build -t 2023-bfs-1-g3-db .
 echo "==== Creando la imagen del backend (6/10) ===="
-cd ../../../../
+cd "$initial_dir/temp/2023-BFS-1-G3_Volvoreta/Backend"
 docker build -t 2023-bfs-1-g3-backend .
-cd ..
 echo "==== Creando la imagen del frontend (7/10) ===="
-cd Front/
+cd "$initial_dir/temp/2023-BFS-1-G3_Volvoreta/Front"
 docker build -t 2023-bfs-1-g3-frontend .
-cd ..
 echo "==== Eliminando repositorios (8/10) ===="
-cd ../../
+cd "$initial_dir"
 rm -rf "temp"
 echo "==== Lanzando docker compose (9/10) ===="
 docker compose up -d
