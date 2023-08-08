@@ -9,6 +9,7 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 
 ## Pública
 * [2023-BFS-1-G3_Volvoreta](./public/2023-BFS-1-G3_Volvoreta)
+* [2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar)
 * [2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners)
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
