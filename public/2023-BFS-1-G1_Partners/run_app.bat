@@ -11,9 +11,7 @@ mkdir "%initial_dir%\temp"
 cd "%initial_dir%\temp"
 
 echo ==== Clonar repositorio (3/10) ====
-git clone https://github.com/CampusDual/2023-BFS-1-G1_Partners
-cd 2023-BFS-1-G1_Partners
-git checkout docker
+git clone --single-branch --branch docker https://github.com/CampusDual/2023-BFS-1-G1_Partners
 
 echo ==== Limpiando imagenes antiguas (4/10) ====
 wsl.exe docker image rm 2023-bfs-1-g1-db
