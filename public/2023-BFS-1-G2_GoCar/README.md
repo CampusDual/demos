@@ -1,4 +1,4 @@
-# 2023-BFS-1-G1_Partners
+# 2023-BFS-1-G2_GoCar
 ## Repositorio
 * [Repositorio](https://github.com/CampusDual/2023-BFS-1-G2_GoCar)
 ## Presentación
