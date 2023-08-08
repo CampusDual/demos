@@ -1,0 +1,25 @@
+version: "3"
+services:
+  db:
+    container_name: 2023-bfs-1-g4-db
+    image: 2023-bfs-1-g4-db
+    ports:
+      - 9054:5432
+    restart: always
+  backend:
+    depends_on:
+      - db
+    container_name: 2023-bfs-1-g4-backend
+    image: 2023-bfs-1-g4-backend
+    ports:
+      - 30071:33333
+    restart: always
+  frontend:
+    depends_on:
+      - db
+      - backend
+    container_name: 2023-bfs-1-g4-frontend
+    image: 2023-bfs-1-g4-frontend
+    ports:
+      - 4234:80
+    restart: always
