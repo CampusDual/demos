@@ -14,8 +14,8 @@
 ## Backend y Frontend
 * Backend URL: [http://localhost:30071](http://localhost:30071)
 * Frontend URL: [http://localhost:4234](http://localhost:4234)
-* Usuario: ` `
-* Contraseña: ` `
+* Usuario: `demo`
+* Contraseña: `demouser`
 
 # Requisitos
 * Docker (con WSL)
