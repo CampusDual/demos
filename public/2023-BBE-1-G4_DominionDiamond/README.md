@@ -1,4 +1,4 @@
-# 20XX-XXX-X-GX_XXX
+# 2023-BBE-1-G4_DominionDiamond
 ## Repositorio
 * [Repositorio](https://github.com/CampusDual/2023-BBE-1-G4_DominionDiamond)
 ## Presentación
@@ -24,22 +24,22 @@
 # Windows
 ## Iniciar aplicación
 ```
-20XX-XXX-X-GX_XXX> run_app.bat
+2023-BBE-1-G4_DominionDiamond> run_app.bat
 ```
 ## Parar la aplicación
 ```
-20XX-XXX-X-GX_XXX> wsl.exe docker compose down
+2023-BBE-1-G4_DominionDiamond> wsl.exe docker compose down
 ```
 
 # WSL
 ## Iniciar aplicación
 ```
-20XX-XXX-X-GX_XXX> chmod +x run_app.sh
-20XX-XXX-X-GX_XXX> ./run_app.sh
+2023-BBE-1-G4_DominionDiamond> chmod +x run_app.sh
+2023-BBE-1-G4_DominionDiamond> ./run_app.sh
 ```
 ## Parar la aplicación
 ```
-20XX-XXX-X-GX_XXX> docker compose down
+2023-BBE-1-G4_DominionDiamond> docker compose down
 ```
 ## Peticiones aplicación
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29381882-583db749-33d5-41f2-8e47-105261e3d89b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D29381882-583db749-33d5-41f2-8e47-105261e3d89b%26entityType%3Dcollection%26workspaceId%3D91970c3b-1c60-46cd-b8b6-20ae18eafa8b)
