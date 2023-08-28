@@ -1,0 +1,16 @@
+version: "3"
+services:
+  db:
+    container_name: 202X-XXX-X-gX-db
+    image: 202X-XXX-X-gX-db
+    ports:
+      - 9XXX:5432
+    restart: always
+  backend:
+    depends_on:
+      - db
+    container_name: 202X-XXX-X-gX-backend
+    image: 202X-XXX-X-gX-backend
+    ports:
+      - 3XXXX:33333
+    restart: always
