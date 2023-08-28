@@ -1,0 +1,16 @@
+version: "3"
+services:
+  db:
+    container_name: 2023-bbe-1-g4-db
+    image: 2023-bbe-1-g4-db
+    ports:
+      - 9050:5432
+    restart: always
+  backend:
+    depends_on:
+      - db
+    container_name: 2023-bbe-1-g4-backend
+    image: 2023-bbe-1-g4-backend
+    ports:
+      - 30067:33333
+    restart: always
