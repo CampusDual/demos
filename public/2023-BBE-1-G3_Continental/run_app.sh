@@ -6,16 +6,16 @@ echo "==== Crear carpeta temporal (2/9) ===="
 mkdir "$initial_dir/temp"
 cd "$initial_dir/temp"
 echo "==== Clonar repositorio (3/9) ===="
-git clone --single-branch --branch docker ...
+git clone --single-branch --branch docker https://github.com/CampusDual/2023-BBE-1-G3_Continental.git
 echo "==== Limpiando imagenes antiguas (4/9) ===="
-docker image rm 202X-XXX-X-gX-db
-docker image rm 202X-XXX-X-gX-backend
+docker image rm 2023-bbe-1-g3-db
+docker image rm 2023-bbe-1-g3-backend
 echo "==== Creando la imagen de la BBDD (5/9) ===="
-cd "$initial_dir/temp/..."
-docker build -t 202X-XXX-X-gX-db .
+cd "$initial_dir/temp/2023-BBE-1-G3_Continental/Continental-model/src/main/db"
+docker build -t 2023-bbe-1-g3-db .
 echo "==== Creando la imagen del backend (6/9) ===="
-cd "$initial_dir/temp/..."
-docker build -t 202X-XXX-X-gX-backend .
+cd "$initial_dir/temp/2023-BBE-1-G3_Continental"
+docker build -t 2023-bbe-1-g3-backend .
 echo "==== Eliminando repositorios (7/9) ===="
 cd "$initial_dir"
 rm -rf "temp"
