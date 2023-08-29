@@ -13,5 +13,6 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 * [2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar)
 * [2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners)
 * [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond)
+* [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
