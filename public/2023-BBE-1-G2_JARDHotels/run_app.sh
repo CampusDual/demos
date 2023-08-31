@@ -8,14 +8,14 @@ cd "$initial_dir/temp"
 echo "==== Clonar repositorio (3/9) ===="
 git clone --single-branch --branch docker https://github.com/CampusDual/2023-BBE-1-G2_JARDHotels.git
 echo "==== Limpiando imagenes antiguas (4/9) ===="
-docker image rm 202X-XXX-X-gX-db
-docker image rm 202X-XXX-X-gX-backend
+docker image rm 2023-bbe-1-g2-db
+docker image rm 2023-bbe-1-g2-backend
 echo "==== Creando la imagen de la BBDD (5/9) ===="
 cd "$initial_dir/temp/2023-BBE-1-G2_JARDHotels/jardhotelsontimize/jardhotelsontimize-model/src/main/db"
-docker build -t 202X-XXX-X-gX-db .
+docker build -t 2023-bbe-1-g2-db .
 echo "==== Creando la imagen del backend (6/9) ===="
 cd "$initial_dir/temp/2023-BBE-1-G2_JARDHotels/jardhotelsontimize"
-docker build -t 202X-XXX-X-gX-backend .
+docker build -t 2023-bbe-1-g2-backend .
 echo "==== Eliminando repositorios (7/9) ===="
 cd "$initial_dir"
 rm -rf "temp"
