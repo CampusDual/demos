@@ -49,6 +49,6 @@
 2023-BBE-1-G2_JARDHotels> docker compose down
 ```
 ## Peticiones aplicación
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29381882-cfc12efc-e10d-49ec-aa1c-4ebb8da832b1?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D29381882-cfc12efc-e10d-49ec-aa1c-4ebb8da832b1%26entityType%3Dcollection%26workspaceId%3D91970c3b-1c60-46cd-b8b6-20ae18eafa8b)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29381882-7365f2db-90b0-4d33-b695-15d684d94a53?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D29381882-7365f2db-90b0-4d33-b695-15d684d94a53%26entityType%3Dcollection%26workspaceId%3D91970c3b-1c60-46cd-b8b6-20ae18eafa8b)
 ## Peticiones aplicación *DEMO*
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29381882-21b97d3a-7d01-41cd-88dd-b5e9c50d16ec?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D29381882-21b97d3a-7d01-41cd-88dd-b5e9c50d16ec%26entityType%3Dcollection%26workspaceId%3D91970c3b-1c60-46cd-b8b6-20ae18eafa8b)
