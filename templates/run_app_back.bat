@@ -10,7 +10,6 @@ git clone --single-branch --branch docker ...
 echo ==== Limpiando imagenes antiguas (4/9) ====
 wsl.exe docker image rm 202X-XXX-X-gX-db
 wsl.exe docker image rm 202X-XXX-X-gX-backend
-wsl.exe docker image rm 202X-XXX-X-gX-frontend
 echo ==== Creando la imagen de la BBDD (5/9) ====
 cd "%initial_dir%\temp\..."
 wsl.exe docker build -t 202X-XXX-X-gX-db .
