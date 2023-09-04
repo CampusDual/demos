@@ -15,5 +15,6 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 * [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond)
 * [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)
 * [2023-BBE-1-G2_JARDHotels](./public/2023-BBE-1-G2_JARDHotels)
+* [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources)
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
