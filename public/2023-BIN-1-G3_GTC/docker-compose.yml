@@ -1,0 +1,25 @@
+version: "3"
+services:
+  db:
+    container_name: 2023-bin-1-g3-db
+    image: 2023-bin-1-g3-db
+    ports:
+      - 9057:5432
+    restart: always
+  backend:
+    depends_on:
+      - db
+    container_name: 2023-bin-1-g3-backend
+    image: 2023-bin-1-g3-backend
+    ports:
+      - 30074:33333
+    restart: always
+  frontend:
+    depends_on:
+      - db
+      - backend
+    container_name: 2023-bin-1-g3-frontend
+    image: 2023-bin-1-g3-frontend
+    ports:
+      - 4237:80
+    restart: always

@@ -18,5 +18,6 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 * [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources)
 * [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic)
 * [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa)
+* [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC)
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
