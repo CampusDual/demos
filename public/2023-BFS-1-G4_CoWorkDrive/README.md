@@ -4,6 +4,8 @@
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-1-G4_CoWorkDrive/blob/main/CoWorkDrive.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-1-G4_CoWorkDrive/main/CoWorkDrive.pdf)
+## Vídeo Demo Day
+[Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EfV-ixS_lVRArsGzmBUWISEBWu6Td0O9LyZc8BAu7VC2pQ?e=D0iq8t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
