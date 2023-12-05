@@ -19,5 +19,6 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 * [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic)
 * [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa)
 * [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC)
+* [2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts)
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
