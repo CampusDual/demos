@@ -4,6 +4,8 @@
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BBE-1-G2_JARDHotels/blob/main/presentation/Presentaci%C3%B3n%20JARD%20Hotels.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BBE-1-G2_JARDHotels/main/presentation/Presentaci%C3%B3n%20JARD%20Hotels.pdf)
+## Vídeo Demo Day
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EVSkOK8ncO9HtZWsYTdKKq0B5vgoWBhm9RJ6HAQ3AVUunQ?e=Ga42K8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
