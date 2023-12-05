@@ -15,8 +15,8 @@
 * Contraseña: `1qaz2wsx`
 ## Backend
 * Backend URL: [http://localhost:30067](http://localhost:30067)
-* Usuario: ` `
-* Contraseña: ` `
+* Usuario: `<sin usuario>`
+* Contraseña: `<sin contraseña>`
 
 # Requisitos
 * Docker (con WSL)
