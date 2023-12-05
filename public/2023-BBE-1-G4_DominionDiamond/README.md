@@ -4,6 +4,8 @@
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BBE-1-G4_DominionDiamond/blob/main/Presentacion/Presentacion_DDH.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BBE-1-G4_DominionDiamond/main/Presentacion/Presentacion_DDH.pdf)
+## Vídeo Demo Day
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EXcJPgwXbNVDlgZ_Bm0ShJ4BwfuROEcC9jMkz4bM3PQQ9w?e=OG3l2J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
