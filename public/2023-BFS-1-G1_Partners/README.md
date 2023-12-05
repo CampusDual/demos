@@ -4,6 +4,8 @@
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-1-G1_Partners/blob/main/Presentacion%20Portal%20Partners.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-1-G1_Partners/main/Presentacion%20Portal%20Partners.pdf)
+## Vídeo Demo Day
+[Enlace al vídeo de la **Demo Day**](https://campusdual-my.sharepoint.com/:v:/p/info/EUsNL3K6mUNBglhXx-o6XooBvtFxlcB85sI9fcjK6PeapQ?e=YjqARj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
