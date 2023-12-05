@@ -4,6 +4,8 @@
 ## Presentación
 * [Visualización en Github]( https://github.com/CampusDual/2023-BIN-1-G2_Maderasa/blob/main/presentacion/presentation_maderasa.pdf )
 * [Descargar PDF]( https://raw.github.com/CampusDual/2023-BIN-1-G2_Maderasa/main/presentacion/presentation_maderasa.pdf )
+## Vídeo Demo Day
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EX8HhrswGx1Bv5VnJwDTjjABp3QbiP3MxDSoYfUMrqAq9g?e=YpbDvD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
