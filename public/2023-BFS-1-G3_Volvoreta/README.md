@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-1-G3_Volvoreta/blob/main/Presentacion/volvoreta.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-1-G3_Volvoreta/main/Presentacion/volvoreta.pdf)
 ## Vídeo Demo Day
-[Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EYMDk8FeEtJFs9xi2Ck3dUwBZ8_y5FJSm2YvAmZOCIKeKw?e=1s8dUO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EYMDk8FeEtJFs9xi2Ck3dUwBZ8_y5FJSm2YvAmZOCIKeKw?e=1s8dUO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
