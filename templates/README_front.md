@@ -5,7 +5,7 @@
 * [Visualización en Github]( )
 * [Descargar PDF]( )
 ## Vídeo Demo Day
-* [Enlace al vídeo]( )
+* NO DISPONIBLE TEMPORALMENTE [Enlace al vídeo]( )
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
