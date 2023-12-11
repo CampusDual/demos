@@ -9,14 +9,15 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 
 ## Pública
 
-| BFS | BBE                                                                  | BIN |
-|-----|----------------------------------------------------------------------|-----|
-| [2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners) | [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources) | [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic) |
-| [2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar) | [2023-BBE-1-G2_JARDHotels](./public/2023-BBE-1-G2_JARDHotels)        | [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa) |
-| [2023-BFS-1-G3_Volvoreta](./public/2023-BFS-1-G3_Volvoreta) | [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)      | [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC) |
-| [2023-BFS-1-G4_CoWorkDrive](./public/2023-BFS-1-G4_CoWorkDrive) | [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond) |     |
-| [2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts) |     |     |
-| [2023-BFS-2-G2_TimeTracker](./public/2023-BFS-2-G2_TimeTracker) |     |     |
+| Full Stack                                                      | Back End                                                                | Ingenieros                                                          |
+|-----------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|
+| [2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners)       | [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources)   | [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic) |
+| [2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar)             | [2023-BBE-1-G2_JARDHotels](./public/2023-BBE-1-G2_JARDHotels)           | [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa)           |
+| [2023-BFS-1-G3_Volvoreta](./public/2023-BFS-1-G3_Volvoreta)     | [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)         | [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC)                     |
+| [2023-BFS-1-G4_CoWorkDrive](./public/2023-BFS-1-G4_CoWorkDrive) | [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond) |                                                                     |
+| [2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts)         |                                                                         |                                                                     |
+| [2023-BFS-2-G2_TimeTracker](./public/2023-BFS-2-G2_TimeTracker) |                                                                         |                                                                     |
+| [2023-BFS-2-G3_Nearvice](./public/2023-BFS-2-G3_Nearvice)       |                                                                         |                                                                     |
 
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
