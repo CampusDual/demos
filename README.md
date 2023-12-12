@@ -18,7 +18,8 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 | [2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts)         |                                                                         |                                                                     |
 | [2023-BFS-2-G2_TimeTracker](./public/2023-BFS-2-G2_TimeTracker) |                                                                         |                                                                     |
 | [2023-BFS-2-G3_Nearvice](./public/2023-BFS-2-G3_Nearvice)       |                                                                         |                                                                     |
-| [2023-BFS-2-G4_FantasyF1](./public/2023-BFS-2-G4_FantasyF1)       |                                                                         |                                                                     |
+| [2023-BFS-2-G4_FantasyF1](./public/2023-BFS-2-G4_FantasyF1)     |                                                                         |                                                                     |
+| [2023-BFS-2-G5_Subsify](./public/2023-BFS-2-G5_Subsify)     |                                                                         |                                                                     |
 
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
