@@ -1,0 +1,6 @@
+FROM postgres:14-alpine
+ENV POSTGRES_USER=
+ENV POSTGRES_PASSWORD=
+ENV POSTGRES_DB=
+COPY dump-202X-XXX-X-GX.sql /docker-entrypoint-initdb.d/
+EXPOSE 5432
