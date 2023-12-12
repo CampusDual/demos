@@ -22,6 +22,7 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 | [2023-BFS-2-G5_Subsify](./public/2023-BFS-2-G5_Subsify)     |                                                                         |                                                                     |
 | [2023-BFS-3-G1_GourmetImports](./public/2023-BFS-3-G1_GourmetImports)     |                                                                         |                                                                     |
 | [2023-BFS-3-G2_cameraRent](./public/2023-BFS-3-G2_cameraRent)     |                                                                         |                                                                     |
+| [2023-BFS-3-G3_WheGym](./public/2023-BFS-3-G3_WheGym)     |                                                                         |                                                                     |
 
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
