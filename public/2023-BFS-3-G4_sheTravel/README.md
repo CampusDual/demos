@@ -10,9 +10,9 @@
 * Driver: `PostgreSQL`
 * Host: `localhost`
 * Puerto: `9066`
-* Base de datos: ` `
-* Usuario: ` `
-* Contraseña: ` `
+* Base de datos: `2023_BFS_3_G4`
+* Usuario: `2023_BFS_3_G4`
+* Contraseña: `b2f34VKzTvt2`
 ## Backend y Frontend
 * Backend URL: [http://localhost:30083](http://localhost:30083)
 * Frontend URL: [http://localhost:4246](http://localhost:4246)
