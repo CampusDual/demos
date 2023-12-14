@@ -1,0 +1,25 @@
+version: "3"
+services:
+  db:
+    container_name: 2022-mnd-1-g4-db
+    image: 2022-mnd-1-g4-db
+    ports:
+      - 9046:5432
+    restart: always
+  backend:
+    depends_on:
+      - db
+    container_name: 2022-mnd-1-g4-backend
+    image: 2022-mnd-1-g4-backend
+    ports:
+      - 30063:9999
+    restart: always
+  frontend:
+    depends_on:
+      - db
+      - backend
+    container_name: 2022-mnd-1-g4-frontend
+    image: 2022-mnd-1-g4-frontend
+    ports:
+      - 4230:80
+    restart: always
