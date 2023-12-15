@@ -9,8 +9,8 @@
 * Usuario: `Master_UDC_2022_G4`
 * Contraseña: `9PVlYwTLPUsA245d!4`
 ## Backend y Frontend
-* Backend URL: [http://localhost:30XXX](http://localhost:30XXX)
-* Frontend URL: [http://localhost:4XXX](http://localhost:4XXX)
+* Backend URL: [http://localhost:30063](http://localhost:30063)
+* Frontend URL: [http://localhost:4230](http://localhost:4230)
 * Usuario gestor: `gestor`
 * Contraseña gestor: `demouser`
 * Usuario local: `pala`
