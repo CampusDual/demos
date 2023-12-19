@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-3-G3_WheGym/blob/main/demo_day/whegym_presentacion.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-3-G3_WheGym/main/demo_day/whegym_presentacion.pdf)
 ## Vídeo Demo Day
-* NO DISPONIBLE TEMPORALMENTE [Enlace al vídeo]( )
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EfP0pFnt1qJDlMWBiKyvNJIBfofA_NsWMXoXdOBzYQNQcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=43hJ7J)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
