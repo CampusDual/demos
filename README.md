@@ -9,22 +9,22 @@ Para que estos scripts funcionen correctamente, es imprescindible que el equipo 
 
 ## Pública
 
-| Full Stack                                                      | Back End                                                                | Ingenieros                                                          |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|
-|[2022-MND-1-G4_AsociacionHostelerosACoruna](./public/2022-MND-1-G4_AsociacionHostelerosACoruna)   | [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources)   | [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic) |
-|[2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners)       | [2023-BBE-1-G2_JARDHotels](./public/2023-BBE-1-G2_JARDHotels)           | [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa)           |
-|[2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar)             | [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)         | [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC)                     |
-|[2023-BFS-1-G3_Volvoreta](./public/2023-BFS-1-G3_Volvoreta)     | [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond) |                                                                     |
-|[2023-BFS-1-G4_CoWorkDrive](./public/2023-BFS-1-G4_CoWorkDrive) |                                                                         |                                                                     |
-|[2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts)         |                                                                         |                                                                     |
-|[2023-BFS-2-G2_TimeTracker](./public/2023-BFS-2-G2_TimeTracker) |                                                                         |                                                                     |
-|[2023-BFS-2-G3_Nearvice](./public/2023-BFS-2-G3_Nearvice)       |                                                                         |                                                                     |
-|[2023-BFS-2-G4_FantasyF1](./public/2023-BFS-2-G4_FantasyF1)     |                                                                         |                                                                     |
-|[2023-BFS-2-G5_Subsify](./public/2023-BFS-2-G5_Subsify)     |                                                                         |                                                                     |
-|[2023-BFS-3-G1_GourmetImports](./public/2023-BFS-3-G1_GourmetImports)     |                                                                         |                                                                     |
-|[2023-BFS-3-G2_cameraRent](./public/2023-BFS-3-G2_cameraRent)     |                                                                         |                                                                     |
-|[2023-BFS-3-G3_WheGym](./public/2023-BFS-3-G3_WheGym)     |                                                                         |                                                                     |
-|[2023-BFS-3-G4_sheTravel](./public/2023-BFS-3-G4_sheTravel)       |                                                                         |                                                                     |
+| Full Stack                                                      | Back End                                                                | Ingenieros                                                          | Product Owner                         |
+|-----------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------|
+|[2022-MND-1-G4_AsociacionHostelerosACoruna](./public/2022-MND-1-G4_AsociacionHostelerosACoruna)   | [2023-BBE-1-G1_HotelResources](./public/2023-BBE-1-G1_HotelResources)   | [2023-BIN-1-G1_TruckLogistic](./public/2023-BIN-1-G1_TruckLogistic) | [2023-BPO-1-G1_WorkWander](./public/2023-BPO-1-G1_WorkWander) |
+|[2023-BFS-1-G1_Partners](./public/2023-BFS-1-G1_Partners)       | [2023-BBE-1-G2_JARDHotels](./public/2023-BBE-1-G2_JARDHotels)           | [2023-BIN-1-G2_Maderasa](./public/2023-BIN-1-G2_Maderasa)           | [2023-BPO-1-G2_GrupShop](./public/2023-BPO-1-G2_GrupShop) |
+|[2023-BFS-1-G2_GoCar](./public/2023-BFS-1-G2_GoCar)             | [2023-BBE-1-G3_Continental](./public/2023-BBE-1-G3_Continental)         | [2023-BIN-1-G3_GTC](./public/2023-BIN-1-G3_GTC)                     | [2023-BPO-1-G3_ComeDaCasa](./public/2023-BPO-1-G3_ComeDaCasa) |
+|[2023-BFS-1-G3_Volvoreta](./public/2023-BFS-1-G3_Volvoreta)     | [2023-BBE-1-G4_DominionDiamond](./public/2023-BBE-1-G4_DominionDiamond) |                                                                     | [2023-BPO-1-G4_KairosMap](./public/2023-BPO-1-G4_KairosMap) |
+|[2023-BFS-1-G4_CoWorkDrive](./public/2023-BFS-1-G4_CoWorkDrive) |                                                                         |                                                                     |                                       |
+|[2023-BFS-2-G1_FinAnts](./public/2023-BFS-2-G1_FinAnts)         |                                                                         |                                                                     |                                       |
+|[2023-BFS-2-G2_TimeTracker](./public/2023-BFS-2-G2_TimeTracker) |                                                                         |                                                                     |                                       |
+|[2023-BFS-2-G3_Nearvice](./public/2023-BFS-2-G3_Nearvice)       |                                                                         |                                                                     |                                       |
+|[2023-BFS-2-G4_FantasyF1](./public/2023-BFS-2-G4_FantasyF1)     |                                                                         |                                                                     |                                       |
+|[2023-BFS-2-G5_Subsify](./public/2023-BFS-2-G5_Subsify)     |                                                                         |                                                                     |                                       |
+|[2023-BFS-3-G1_GourmetImports](./public/2023-BFS-3-G1_GourmetImports)     |                                                                         |                                                                     |                                       |
+|[2023-BFS-3-G2_cameraRent](./public/2023-BFS-3-G2_cameraRent)     |                                                                         |                                                                     |                                       |
+|[2023-BFS-3-G3_WheGym](./public/2023-BFS-3-G3_WheGym)     |                                                                         |                                                                     |                                       |
+|[2023-BFS-3-G4_sheTravel](./public/2023-BFS-3-G4_sheTravel)       |                                                                         |                                                                     |                                       |
 
 ## *Privada*
 * [AppmazingApp](./private/appmazing-app)
