@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BIN-1-G3_GTC/blob/main/Presentacion%20GTC.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BIN-1-G3_GTC/main/Presentacion%20GTC.pdf)
 ## Vídeo Demo Day
-* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EVJayLPxLYhDp0mKdgFnhTMBDjAeFjSU21I3sDs4YjeJmA?e=vWuluW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/ESrcpsdMNgBFvvWavqI-tXABaKkW8j_gQo6xjCXnlPXd9g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l7pwJB)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
