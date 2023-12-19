@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-2-G3_Nearvice/blob/main/demo_day/Presentacion%20Nearvice.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-2-G3_Nearvice/main/demo_day/Presentacion%20Nearvice.pdf)
 ## Vídeo Demo Day
-* NO DISPONIBLE TEMPORALMENTE [Enlace al vídeo]( )
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EaloCoxGqt9An33JSt_tgaQBCvla0oJHoob7jdSQu4wwRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B6iHvk)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
