@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-3-G2_cameraRent/blob/docker/demo_day/cameraRent_demo.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-3-G2_cameraRent/docker/demo_day/cameraRent_demo.pdf)
 ## Vídeo Demo Day
-* NO DISPONIBLE TEMPORALMENTE [Enlace al vídeo]( )
+* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EbjzwC--cXBHpzWr2SBfqAgBZUVCF19GupFHmHZd_LhUfQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XamZds)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
