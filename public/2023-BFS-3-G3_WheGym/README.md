@@ -1,6 +1,6 @@
 # 2023-BFS-3-G3_WheGym
 ## Repositorio
-* [Repositorio](https://github.com/CampusDual/2023-BFS-3-G3_WheGym)
+* [Repositorio](https://github.com/CampusDual/CD2023-BFS-3-G3_WheGym)
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-3-G3_WheGym/blob/main/demo_day/whegym_presentacion.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-3-G3_WheGym/main/demo_day/whegym_presentacion.pdf)
