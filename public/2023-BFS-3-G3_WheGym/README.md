@@ -6,42 +6,9 @@
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-3-G3_WheGym/main/demo_day/whegym_presentacion.pdf)
 ## Vídeo Demo Day
 * [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EfP0pFnt1qJDlMWBiKyvNJIBfofA_NsWMXoXdOBzYQNQcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=43hJ7J)
-## Base de datos
-* Driver: `PostgreSQL`
-* Host: `localhost`
-* Puerto: `9065`
-* Base de datos: `2023_BFS_3_G3`
-* Usuario: `2023_BFS_3_G3`
-* Contraseña: `b2f34VKzTvt2`
-## Backend y Frontend
-* Backend URL: [http://localhost:30082](http://localhost:30082)
-* Frontend URL: [http://localhost:4245](http://localhost:4245)
+## Aplicación
+* URL: [https://cd2023bfs3g3.dev.campusdual.com](https://cd2023bfs3g3.dev.campusdual.com/)
 * Usuario admin: `mariar_m`
 * Contraseña admin: `mariar_mMM71`
 * Usuario: `laura`
 * Contraseña: `123456lL+`
-# Requisitos
-* Docker (con WSL)
-* Docker compose (v2)
-* Git
-
-# Windows
-## Iniciar aplicación
-```
-2023-BFS-3-G3_WheGym> run_app.bat
-```
-## Parar la aplicación
-```
-2023-BFS-3-G3_WheGym> wsl.exe docker compose down
-```
-
-# WSL
-## Iniciar aplicación
-```
-2023-BFS-3-G3_WheGym> chmod +x run_app.sh
-2023-BFS-3-G3_WheGym> ./run_app.sh
-```
-## Parar la aplicación
-```
-2023-BFS-3-G3_WheGym> docker compose down
-```
