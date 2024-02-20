@@ -1,6 +1,6 @@
 # 2023-BFS-2-G4_FantasyF1
 ## Repositorio
-* [Repositorio](https://github.com/CampusDual/2023-BFS-2-G4_FantasyF1)
+* [Repositorio](https://github.com/CampusDual/CD2023-BFS-2-G4_FantasyF1)
 ## Presentación
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-2-G4_FantasyF1/blob/main/demo_day/slides%20demo%20day.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-2-G4_FantasyF1/main/demo_day/slides%20demo%20day.pdf)
