@@ -7,7 +7,7 @@
 ## Vídeo Demo Day
 * [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EVea0EwTGC9CgTdxRYfiDFUBvz6sOU1KTslyuH1_a7CggA?e=YmiMgI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-## Backend
+## Aplicación
 * URL: [https://cd2023bbe1g1.dev.campusdual.com](https://cd2023bbe1g1.dev.campusdual.com)
 * Usuario gestor: `manager`
 * Contraseña gestor: `Manager1234`
