@@ -7,4 +7,4 @@
 
 ## Vídeo Demo Day
 
-- [Enlace al vídeo-PENDIENTE](#)
+- [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/ES_ZsSG4dflPhoeYU8dlVuIBPBc2RqUszb6wVzroMLI-hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JskMKO)
