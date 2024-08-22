@@ -2,8 +2,8 @@
 
 ## Presentación
 
-- [Visualización en Github](https://github.com/CampusDual/2024-BFS-2-G1_GaliTour/blob/main/demo_day_slides/Galitur%20presentacion.pdf)
-- [Descargar PDF](https://raw.github.com/CampusDual/2024-BFS-2-G1_GaliTour/main/demo_day_slides/Galitur%20presentacion.pdf)
+- [Visualización en Github](https://github.com/CampusDual/2024-BFS-2-G1_GaliTur/blob/main/demo_day_slides/Galitur%20presentacion.pdf)
+- [Descargar PDF](https://raw.github.com/CampusDual/2024-BFS-2-G1_GaliTur/main/demo_day_slides/Galitur%20presentacion.pdf)
 
 ## Vídeo Demo Day
 
