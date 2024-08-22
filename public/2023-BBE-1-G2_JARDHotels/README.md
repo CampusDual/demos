@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/CD2023-BBE-1-G2_JARDHotels/blob/main/presentation/Presentaci%C3%B3n%20JARD%20Hotels.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/CD2023-BBE-1-G2_JARDHotels/main/presentation/Presentaci%C3%B3n%20JARD%20Hotels.pdf)
 ## Vídeo Demo Day
-* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EVSkOK8ncO9HtZWsYTdKKq0B5vgoWBhm9RJ6HAQ3AVUunQ?e=Ga42K8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Enlace al vídeo](https://www.youtube.com/watch?v=W2_T6i-DoA0)
 
 ## Backend
 * Backend URL: [https://cd2023bbe1g2.dev.campusdual.com/](https://cd2023bbe1g2.dev.campusdual.com/)
