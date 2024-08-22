@@ -7,4 +7,4 @@
 
 ## Vídeo Demo Day
 
-- [Enlace al vídeo](https://www.youtube.com/live/t-o50ghdNpA?feature=shared&t=13003)
+- [Enlace al vídeo](https://www.youtube.com/watch?v=aKOiz0DqmPo)
