@@ -1,4 +1,4 @@
-# 2024-BFS-2-G1_GaliTour
+# 2024-BFS-2-G1_GaliTur
 
 ## Presentación
 
