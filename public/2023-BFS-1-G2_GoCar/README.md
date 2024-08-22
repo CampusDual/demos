@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BFS-1-G2_GoCar/blob/Sprint5_Gocar/GOCAR_DEMODAY.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BFS-1-G2_GoCar/Sprint5_Gocar/GOCAR_DEMODAY.pdf)
 ## Vídeo Demo Day
-* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/Ea8mIQ9VbupFuDLizvprNsoBe1dtVMfQZkjTdEog8VjOAQ?e=lKi7JK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Enlace al vídeo](https://www.youtube.com/watch?v=r8hYz_fxapI)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
