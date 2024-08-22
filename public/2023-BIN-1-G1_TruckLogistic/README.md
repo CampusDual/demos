@@ -5,7 +5,7 @@
 * [Visualización en Github](https://github.com/CampusDual/2023-BIN-1-G1_TruckLogistic/blob/main/TruckLogistic.pdf)
 * [Descargar PDF](https://raw.github.com/CampusDual/2023-BIN-1-G1_TruckLogistic/main/TruckLogistic.pdf)
 ## Vídeo Demo Day
-* [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/EYXKrl2Te-5MtnPm1tGThcsBKxVl15brayC2t-Gww30ezQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4AU5nl)
+* [Enlace al vídeo](https://www.youtube.com/watch?v=J7sEq4Q_cJc)
 ## Base de datos
 * Driver: `PostgreSQL`
 * Host: `localhost`
