@@ -7,6 +7,6 @@
 ## Vídeo Demo Day
 * [Enlace al vídeo](https://campusdual-my.sharepoint.com/:v:/p/info/ESnbFmXT4KdBrIaxqhgcMpEBklhogS_a2fAQDbIc-jXd8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MEtCH5)
 ## Aplicación
-* Aplicación: [https://cd2023bfs3g1.dev.campusdual.com](https://cd2023bfs3g1.dev.campusdual.com)
+* URL: [https://cd2023bfs3g1.dev.campusdual.com](https://cd2023bfs3g1.dev.campusdual.com)
 * Usuario: `demo3`
 * Contraseña: `password`
