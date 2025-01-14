@@ -1,5 +1,5 @@
 # CampusDual - Demos
-Este repositorio contiene carpetas donde se guardan los scripts de creación de todas las demos disponibles de CampusDual.
+Este repositorio contiene todas las demos disponibles de CampusDual.
 
 Estos scripts de las demos se dividen en dos secciones, **públicas** y *privadas*.
 
